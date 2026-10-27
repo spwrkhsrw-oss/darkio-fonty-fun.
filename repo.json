@@ -1,0 +1,9 @@
+{
+  "$meta": {
+    "name": "Darkio Fonty Fun",
+    "description": "Revenge Classic plugin repository for Darkio Fonty Fun."
+  },
+  "dev.darkio.fonty-fun": {
+    "version": "0.3.0"
+  }
+}
